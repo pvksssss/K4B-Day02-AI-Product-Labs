@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
+- Họ và tên: Phạm Văn Kiên
+- Mã học viên: 2A202602590
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm cuối ngành liên quan đến AI, đang học các môn chuyên ngành, làm đồ án/project nhóm và chuẩn bị định hướng thực tập/đi làm.
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
   - Đọc tài liệu, paper, slide và ghi chú lại kiến thức AI/ML.
